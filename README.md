@@ -29,4 +29,4 @@ The work supports community understanding and decision-making around wildfire ri
 - matplotlib (v3.8.3) – Visualization
 - seaborn (v0.13.2) – Statistical plotting
 - scikit-learn (v1.4.2) – Clustering and analysis
-- jupyter (v1.0.0) – Interactive notebooks for analysis walkthroughs """
+- jupyter (v1.0.0) – Interactive notebooks for analysis walkthroughs
