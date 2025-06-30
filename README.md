@@ -23,6 +23,14 @@ The work supports community understanding and decision-making around wildfire ri
 
 ---
 
+## 🧠 Key Learnings
+
+- Analyzed trends in fire frequency and intensity
+- Integrated weather data to identify seasonal fire risks
+- Community-impact stories using wildfire data insights
+
+---
+
 ## 🧰 Core Dependencies
 - pandas (v2.2.2) – Data manipulation and cleaning
 - numpy (v1.26.4) – Numerical operations
